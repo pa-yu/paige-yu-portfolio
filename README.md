@@ -11,20 +11,17 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Paige and my pronouns are she/her. I am in the MISM-16 program but I also did my undergrad at CMU at Tepper! It's my fifth year in Pittsburgh now so if you need any food recs, feel free to ask me!
+
+I'd say I have a pretty unique hodge-podge background. I am now in Information Systems, I did my undergrad in business with a minor in media design and concentration in marketing. It's a really cool blend of buisness, tech, and art. Growing up, I didn't think I was a creative person. Even though I liked drawing and have been involved with a lot of music, I thought I was only good at drawing or doing what I was told to do. But recently, I've discovered I really like coming up with ideas and pushing boundaries on what can be done. I think that's applicable to any career and a valuable skill to have. 
+
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+- How to create a graphic that is clear and concise but also visually appealing
+- Being able to critique not only other peices of work but also my own
+- How to take data and form it into a graphic
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+Once I graduate, I am not too sure what career path I'll end up in. But I am sure that I will have to work with data in some capacity. So I'd love to learn how to use that data to effectively communicate my point or argument across.
 
 # Portfolio
 
