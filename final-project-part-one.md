@@ -14,15 +14,15 @@ Using the data for current estimates of a person’s monthly expenses, I'll crea
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-<img src="~payu/Downloads/Telling Stories Data/MiddleClassStoryGraph.png" alt="Middle Class Story Graph" width="500">
+![Middle Class Story Graph](MiddleClassStoryGraph.png)
 
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
- <img src="~payu/Downloads/Telling Stories Data/Outline1.png" alt="Outline1" width="500">
- <img src="~payu/Downloads/Telling Stories Data/Outline2.png" alt="Outline2" width="500">
- <img src="~payu/Downloads/Telling Stories Data/Outline3.png" alt="Outline3" width="500">
+ ![Outline1](Outline1.png)
+ ![Outline2](Outline2.png)
+ ![Outline3](Outline3.png)
 
 
 # The data
