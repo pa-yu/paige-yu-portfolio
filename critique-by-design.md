@@ -53,25 +53,25 @@ Testers:
 Results: 
 
 *  Can you tell me what you think this is?
-- Its max earnings for female vs male player in the US for the world cup
-- This visualization shows the max earnings for female vs male players in the U.S. for the world cup
-- The max earnings for female vs male players in the World Cup
+  - Its max earnings for female vs male player in the US for the world cup
+  - This visualization shows the max earnings for female vs male players in the U.S. for the world cup
+  - The max earnings for female vs male players in the World Cup
 * Can you describe to me what this is telling you?
-- Men are making more money in world cup than women
-- It is telling me that there is a large difference between male and female earnings and males are earning way more than females
-- There's a large wage gap between the males and females
+  - Men are making more money in world cup than women
+  - It is telling me that there is a large difference between male and female earnings and males are earning way more than females
+  - There's a large wage gap between the males and females
 * Is there anything you find surprising or confusing?
-- They are making so much more than women
-- I find the difference between male and female earnings very surprising
-- Nothing is confusing. The difference is surprising
+  - They are making so much more than women
+  - I find the difference between male and female earnings very surprising
+  - Nothing is confusing. The difference is surprising
 * Who do you think is the intended audience for this?
-- Sexism study/researchers
-- Sports analysts, important decision makers in sports
-- Those interested in the World Cup in the US
+  - Sexism study/researchers
+  - Sports analysts, important decision makers in sports
+  - Those interested in the World Cup in the US
 * Is there anything you would change or do differently?
-- The line graph is a bit confusing to me → would do a bar graph instead
-- I would make the numbers and labels on the axes bigger because they are kind of hard to see
-- Maybe add some information about what each bonus means
+  - The line graph is a bit confusing to me → would do a bar graph instead
+  - I would make the numbers and labels on the axes bigger because they are kind of hard to see
+  - Maybe add some information about what each bonus means
 
 Synthesis: 
 
