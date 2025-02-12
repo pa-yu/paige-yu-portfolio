@@ -93,9 +93,13 @@ _Include and describe your final solution here. It's also a good idea to summari
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
+
 There were some limitations on Tableau to create the visualization I wanted. I tried having the area between the lines to be shaded in a light gray. I was able to get close by having a dual axis with two graphs, one with lines and one with areas. But I was not able to change the color of the area without changing the color of the lines themselves. I also wasn't able to delete the area under the women's curve. I also wanted a line connecting the ending sum to highlight the difference but that also wasn't possible on Tableau. I was able to add a horizontal average line but not a vertical line. Lastly, I wasn't able to add a horizontal axis title, probably because it's technically not a line graph because there aren't any dates. So I edited the title to make it more clear that each section is a progression through the World Cup.
 
 I do think that the visualization still does a good job of getting the message across. It just doesn't have the extra elements that I wanted. 
+
+(After adding in the visualization, I just found out that the annotations don't show up on github. I have an annotation that says "Men" at the end of the male line and an annotation saying "Women" at the end of the female line. It shows up on Tableau Public but I guess not on here.)
 
 ## References
 _List any references you used here._
