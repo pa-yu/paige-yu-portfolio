@@ -99,8 +99,6 @@ There were some limitations on Tableau to create the visualization I wanted. I t
 
 I do think that the visualization still does a good job of getting the message across. It just doesn't have the extra elements that I wanted. 
 
-(After adding in the visualization, I just found out that the annotations don't show up on github. I have an annotation that says "Men" at the end of the male line and an annotation saying "Women" at the end of the female line. It shows up on Tableau Public but I guess not on here.)
-
 ## References
 _List any references you used here._
 
