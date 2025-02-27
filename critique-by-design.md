@@ -7,14 +7,11 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
-
 I chose the visualization called "The Gender Pay Gap in US World Cup Bonuses". The article was posted by the Guardian on June 28, 2019. [Article Link](https://www.theguardian.com/football/ng-interactive/2019/jun/28/revealed-the-731003-gender-pay-gap-in-us-world-cup-bonuses)
 
 I really liked the progression of the original visualization, how the bubbles would enlarge based on the bonus amount, but I felt like it could've done a better job of highlighting how large the pay gap actually is. I also really care about the wage gap topic. As I woman, I try to ensure that the companies I work for don't have a wage gap based on gender. 
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
 Overall observations:
 The visualization is very easy to understand. I like how they broke up each progression in the World Cup and had both the total and incremental bonuses for each stage. I liked that the reader can see the bubbles increasing unproportionally, but it's hard to gauge how big each bubble is. For the last stage, the $1.1M bubble doesn't look as astronomically larger than the 260K bubble than what I think it should be. It's also hard to gauge how the bonus gap adds up over time. I think this will look better as a line graph. I enjoyed the descriptions and information for each step. If I combine all of this into one visualization, I think it'll be hard to include the extra information. I would shift the focus on the bonuses at each stage to the total wage gap overall. Color-wise, I understand that they may have not wanted to use the "stereotypical" pink and blue to represent females and males but it's confusing to use blue for females since it normally represents males. 
@@ -81,8 +78,6 @@ Everyone was able to get the message that there's a large pay gap between the ma
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
 <div class='tableauPlaceholder' id='viz1739396142691' style='position: relative'><noscript><a href='#'><img alt='Total Pay for Men vs Women in the U.S. as they Progress through the World Cup ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeoverMonday_17393961334560&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MakeoverMonday_17393961334560&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeoverMonday_17393961334560&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1739396142691');                    
@@ -100,9 +95,8 @@ There were some limitations on Tableau to create the visualization I wanted. I t
 I do think that the visualization still does a good job of getting the message across. It just doesn't have the extra elements that I wanted. 
 
 ## References
-_List any references you used here._
+None
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
 I did not use AI to complete this assignment. 
