@@ -1,36 +1,33 @@
 | [home page](README.md) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+[Final Product](https://carnegiemellon.shorthandstories.com/telling-stories-with-data-final-project/index.html)
 
-Text here!
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+I have added all of the information for each section. For the budget calculator, I decided to link to a website with a built in calculator because I couldn't figure out how to do an inputtable form on shorthand. 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+The audience for my final story are primarily for fresh college graduates living in Pittsburgh. However, it is also open to all college graduates because they can use the information to create their own budget and calcualte their salary. As I mentioned in part 2, the interviews helped me shift my audience from middle class families to college graduates. 
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
+For the design of my story, I decided to stick closely with the template I used, I like the sections it provided and how the story is broken down. I spent a bit of time finding an order that allowed the story to flow well and made sense to readers. There were a couple of iterations but I ended up with the story I have now.
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+
+Already in Shorthand.
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
 
-Text here!
+I used chatpgt to help come up with some suggestions on lifestype changes the reader can make, although I only ended up using two of them and came up with the rest myself. I also used it to help me make the budget breakdowns categories and provide rough estimates on each category. I then double checked those estimates with outside references. 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+I liked the ease of creating a website through Shorthand but I felt like it was limiting. There were many things that I wanted to do but didn't know how or Shorthand didn't have the capability to. For example, I wanted to have an actual form for the "Calculate your own salary expectations" section that readers can type into but Shorthand didn't have that ability so I had to link to an outside source. I felt like Shorthand had a larger learning curve than I expected and it was dificult learning how to use Shorthand while also trying to do my project on it. The two blue bars at the end of my story I still can't figure out how to delete after many attempts to. Also Shorthand was very laggy for my laptop. Every time I typed, it would take triple the amount of time for the words to show up on the page. That was very frustrating because I had to take much longer completing each section than I planned for. 
+
+If I could do this project differently, I would maybe try to use a different platform to host my story but I also don't know any other platforms but I can try to look for other ones. I felt like the whole process I was just getting frustrated with Shorthand. 
 
 
