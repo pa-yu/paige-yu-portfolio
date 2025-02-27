@@ -1,10 +1,6 @@
 | [home page](README.md) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
 I will start by showing the average salary of Pittsburgh residents over time. Then I will show the same graph but adjusted for inflation. After being adjusted, the graph should look more grim to emphasize that people’s salaries are not where they should be. To add to that point, I will compare the salary of a fresh college graduate in 19– compared to 2024 also adjusted for inflation. 
 I will go into a more positive route where I'll show that we do have a better quality of life since then. LIfe expectancy has gone up, better job benefits, better healthcare. But then I'll counter with the costs of all of these benefits. The cost of healthcare now, the cost of groceries, rent, etc. 
@@ -17,8 +13,7 @@ Using the data for current estimates of a person’s monthly expenses, I'll crea
 ![Middle Class Story Graph](MiddleClassStoryGraph.png)
 
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+## Initial sketches 
 
  ![Outline1](Outline1.png)
  ![Outline2](Outline2.png)
@@ -26,7 +21,6 @@ Using the data for current estimates of a person’s monthly expenses, I'll crea
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 I have found a couple datasets for each category I plan on showing data on. The census page has links to many datasets collected from the most recent census. Useful datasets include median gross rent, median household income, and demographic information. The datausa page is a dashboard that has population, economic, and housing information on multiple cities in the U.S. On the dashboard, there already are multiple data visualizations that I can get the datasets for. There are multiple statista graphs and datasets containing information about salaries and inflation over time. Those are useful to see a general trend. I found a few datasets from Allegheny county as well that detail salary data. There are a lot of datasets to look through, and I can hopefully create some great data visualizations from them. The income datasets are great to set the beginning of my story. And the consumer price indexes will be a great end to my story. 
 
@@ -66,17 +60,14 @@ Consumer price index:
 [https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm](https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm) 
 [https://fred.stlouisfed.org/series/CUSR0000SAF11](https://fred.stlouisfed.org/series/CUSR0000SAF11)
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+# Method and medium 
 
 I will be using Tableau to create my data visualizations. I might also use javascript or github to try to create a working model that users can input numbers into. 
 
 ## References
-_List any references you used here._
+None
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 I did not use AI for this assignment.
