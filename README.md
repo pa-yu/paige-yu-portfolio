@@ -25,8 +25,7 @@ Once I graduate, I am not too sure what career path I'll end up in. But I am sur
 
 # Portfolio
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+## Assignment: 
 <div class='tableauPlaceholder' id='viz1737951859922' style='position: relative'><noscript><a href='#'><img alt='Debt to GDP Ratios ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorkingwithTableau_17379518356010&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='WorkingwithTableau_17379518356010&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorkingwithTableau_17379518356010&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1737951859922');                    
@@ -37,17 +36,16 @@ For this assignment, make sure you set up and link to a new page.  This page is 
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+For my final project, I focused on what a college graduate's salary should be. 
+[Part I](final-project-part-one.md)
+[Part II](final-project-part-two.md)
+[Part III](final-project-part-three.md)
 
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
+
 
 ### Changing text
 
